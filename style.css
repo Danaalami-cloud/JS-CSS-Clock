@@ -48,3 +48,17 @@ body {
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
+.min-hand {
+background-color: rgb(51, 92, 5);    /* height: 6px; */
+    
+}
+
+.hour-hand {
+    width: 40%;
+    left: 10%;
+    height: 8px;
+}
+
+.second-hand {
+    background-color: rgb(238, 191, 133);
+}
